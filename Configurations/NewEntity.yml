@@ -1,0 +1,25 @@
+id: b559b80f-2511-41a0-b4c4-534a7cc8bc20
+type: entity
+annotations:
+- namespace: c4modeler
+  name: position
+  value:
+    9cc9b81e-bdfe-470e-898e-23bbecc71287:
+      x: 137.5
+      y: 67.5
+entityType: domain
+name: NewEntity
+fields:
+- type: string
+  description: New Field
+  isPublic: true
+  enumerable: true
+  name: name
+- type: NewEntityEnum
+  description: New Field
+  isPublic: true
+  enumerable: true
+  name: type
+description: Entity
+associations: []
+useRepository: true

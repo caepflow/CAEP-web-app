@@ -1,0 +1,11 @@
+id: b04da8b4-f3d6-4878-9395-130c4b4afe35
+name: ProjectContext
+type: c4-project
+caepVersion: 6
+description: This is a sample project configuration for C4 model generation.
+children:
+- id: 4c4278a8-9e42-45c4-a604-a2c9223ee218
+  type: software-system
+- id: 15a729bc-890a-4ef5-99fd-9127ca780736
+  type: person
+tenantId: 5f37364f-201e-47ea-2e89-08dd02619fda
